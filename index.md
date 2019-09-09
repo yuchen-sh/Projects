@@ -24,6 +24,9 @@ introduce a design for the obstacle module in ns-3, and design the matched chann
 * We developed the smart WiFi car based on Intel chips, which can be used for automatically taking pictures and sensoring environments. My works mainly responsible for designing overall framework and developing the underlying embedded drivers. We designed a set of inverse sequences with the interface multiplexing technology and applied to WIFI serial ports, so that the driver was freed from the shackles of hardware, saving on the cost of hardware development. We also designed the appication based on Android system, which was used to wirelessly remote control for the car. 
 
 
+### &diams;	Network Protocols and Standards for Space Information Networks, in Shanghai Jiao Tong Univ., China.
+* Because of the unbalanced computation ability of every node in space information networks, the efficiency and lightweight computation are two significant characteristics for network security protocols in this specific environment. We broke through the limits of old ways, abandoned the existing algorithms such as PKI or IBE, and devised several lightweight encryption schemes just based on hash and XOR operations. Through extensive theoretical analysis and simulation tests, it was evident that proposed optimized algorithms not only met all security requirements, but reduced the cost as well.
+
 <div style="text-align:left">
      <a href="#top"><input type="button" value="back to top" /></a>
 </div>
