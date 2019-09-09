@@ -21,7 +21,7 @@ introduce a design for the obstacle module in ns-3, and design the matched chann
 * Based on the Intel processor microarchitecture,  we developed the driver and doing the post-processing used in the video/film business for quality-improvement image processing, such as scaling, color correction, denoising, deinterlacing and high dynamic range rendering, etc.
 
 ### &diams;	IoT-based Intelligent Wifi Car, in Intel R&D Ltd.
-* Based on the Intel processor microarchitecture,  we developed the driver and doing the post-processing used in the video/film business for quality-improvement image processing, such as scaling, color correction, denoising, deinterlacing and high dynamic range rendering, etc.
+* We developed the smart WiFi car based on Intel chips, which can be used for automatically taking pictures and sensoring environments. My works mainly responsible for designing overall framework and developing the underlying embedded drivers. We designed a set of inverse sequences with the interface multiplexing technology and applied to WIFI serial ports, so that the driver was freed from the shackles of hardware, saving on the cost of hardware development. We also designed the appication based on Android system, which was used to wirelessly remote control for the car. 
 
 
 <div style="text-align:left">
