@@ -29,7 +29,7 @@ introduce a design for the obstacle module in ns-3, and design the matched chann
 
 ### &diams;	Security Architecture and Modularization of Mobile Communication Network Element Software, Huawei Technologies Co., Ltd & Shanghai Jiao Tong Univ., China.
 * Fulfilled information encryption of security components, designed distribution of keys and the storage security algorithm.
-* Designed and filed two patents: 1) Linux Security Module (LSM) based database connection access control method, which applied the hook functions within the LSM framework; 2) virtual device based dynamic and static integrated security strategy update method, which was a solution of combining dynamic and static update strategies was put forward to ensure the system's stability.
+* Designed and filed two patents: 1) Linux Security Module (LSM) based database connection access control method, which applied the hook functions within the LSM framework; 2) virtual device based dynamic and static integrated security strategy update method, which was a solution of combining dynamic and static update strategies put forward to ensure the system's stability.
 
 
 <div style="text-align:left">
