@@ -5,7 +5,7 @@
 
 * Activities: My researches are focused on two network scenarios for mmWave communication: 1) mmWave backhaul networks and 2) mmWave WLAN (primarily in the indoor context). For mmWave backhaul networks, we have investigated design of high throughput relay-assisted backhaul network architecture in urban environments, analyzed the effects of obstacles on backhaul networks, and developed techniques for reconfiguration to provide survivability of backhaul networks in the presence of dynamic obstacles. For mmWave WLAN, we investigated access point (AP) mobility and the use of multiple APs to exploit location sensitivity. These activities primarily involved mathematical analyses and a combination of Matlab and ns-3 simulations. For the access point mobility work, a prototype of a ceiling-mounted AP mobility platform was developed and used for evaluation purposes to complement the mathematical analyses and simulation results. For the multi-AP work, several algorithms were proposed to generate optimal multi-AP placements such that the desirable performance and blockage-free operation can be achieved.
 
-### &diams; Developing the Network Simulators Based on ns-3 Software
+### &diams; Developing the Network Simulators Based on the ns-3 Software
 * My works are focused on the developing end-to-end simulator of mmWave out-of-band backhaul networks in ns-3. We first
 introduce a design for an out-of-band backhaul module in ns-3. A custom backhaul network device is proposed that can be added to
 nodes to enable out-of-band backhaul transmissions. We implement the anchored BS node connected to core-network with both access and backhaul abilities, the small-cell BS node with both access and backhaul abilities, and the mmWave relay node with only dedicated backhauling features. 
@@ -17,13 +17,7 @@ introduce a design for the obstacle module in ns-3, and design the matched chann
 
 
 ## <span id="j8"><font color='darkblue' face="Georgia">PAST PROJECTS</font></span>
-* "A Data Collection Method of Internet of Vehicles in the Big Data Era", issued May. 2019, (CN Patent No.: CN105978883B).  
-
-* "The Smart USB-Key Detection System based on Sandbox Mechanism”, issued Dec. 2017, (CN Patent No.: CN104700028B).
-
-* "Selection Method of P2P Sensor Network Security Service in the Social Networks", (Appication Patent No.: 201610080457.7)
-
-* "A Lightweight Security Synchronization Method in Smart Sensor Networks", (Application Patent No.: 201510703427.2).
+### &diams;	Project on developing Graphic Processing Units driver for video post-processing, in Intel R&D Ltd., Shanghai, China.
 
 
 <div style="text-align:left">
