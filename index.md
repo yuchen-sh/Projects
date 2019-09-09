@@ -1,7 +1,9 @@
 
 ## <span id="j7"><font color='darkblue' face="Georgia">CURRENT PROJECTS</font></span>
 ### * Location, Location, Location: Maximizing Network Performance in the mmWave Era
-* Y. Liu and D. Blough, “*Joint Path-Network Level Reconfiguration for mmWave Backhaul Survivability in Urban Environments*”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
+* Goals: This project is focused on the location-sensitivity aspect of mmWave communication, i.e. that small changes in the location of the transceiver of a mmWave link can have dramatic impact on performance. The major goals are to quantify location sensitivity and to investigate ways in which location sensitivity can be exploited, both at network design time and during network operation, to improve mmWave performance. Among the techniques investigated to take advantage of location sensitivity are controlled mobility and optimized use of relay nodes.
+
+* Activities: The project's activities are focused on two network scenarios for mmWave communication: 1) mmWave backhaul networks and 2) mmWave LAN (primarily in the indoor context). For mmWave backhaul networks, we havee investigated design of high throughput relay-assisted backhaul networks in urban environments, analyzed the effects of obstacles on backhaul networks, and developed techniques for reconfiguration to provide survivability of backhaul networks in the presence of dynamic obstacles. For mmWave LAN, we investigated access point (AP) mobility and the use of multiple APs to exploit location sensitivity. These activities primarily involved mathematical analyses and a combination of Matlab and ns-3 simulations. For the access point mobility work, a prototype of a ceiling-mounted AP mobility platform was developed and used for evaluation purposes to complement the mathematical analyses and simulation results.
 
 
 
