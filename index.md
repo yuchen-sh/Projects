@@ -18,7 +18,10 @@ introduce a design for the obstacle module in ns-3, and design the matched chann
 
 ## <span id="j8"><font color='darkblue' face="Georgia">PAST PROJECTS</font></span>
 ### &diams;	Developing Graphic Processing Units driver for video post-processing, in Intel R&D Ltd.
-* 
+* Based on the Intel processor microarchitecture,  we developed the driver and doing the post-processing used in the video/film business for quality-improvement image processing, such as scaling, color correction, denoising, deinterlacing and high dynamic range rendering, etc.
+
+### &diams;	IoT-based Intelligent Wifi Car, in Intel R&D Ltd.
+* Based on the Intel processor microarchitecture,  we developed the driver and doing the post-processing used in the video/film business for quality-improvement image processing, such as scaling, color correction, denoising, deinterlacing and high dynamic range rendering, etc.
 
 
 <div style="text-align:left">
