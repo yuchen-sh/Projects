@@ -1,5 +1,7 @@
 
 ## <span id="j7"><font color='darkblue' face="Georgia">CURRENT PROJECTS</font></span>
+### &diams; Design of Anticipatory Mobile and Wireless Network Systems Using Machine Learning
+
 ### &diams; Location, Location, Location: Maximizing Network Performance in the mmWave Era
 * Goals: This project is focused on the location-sensitivity aspect of mmWave communication, i.e. that small changes in the location of the transceiver of a mmWave link can have dramatic impact on performance. The major goals are to quantify location sensitivity and to investigate ways in which location sensitivity can be exploited, both at network design time and during network operation, to improve mmWave performance. Among the techniques investigated to take advantage of location sensitivity are controlled mobility and optimized use of relay nodes.
 
