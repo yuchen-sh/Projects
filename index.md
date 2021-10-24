@@ -8,12 +8,12 @@
 * Activities: My researches are focused on two network scenarios for mmWave communication: 1) mmWave backhaul networks and 2) mmWave WLAN (primarily in the indoor context). For mmWave backhaul networks, which is proposed because of the existence of a large number of small-cell BSs within each macro-cell in 5G era and it aims to resolve the issue of forwarding the large amount of backhaul traffic between these small-cell BSs without wired connections, we have investigated design of high throughput relay-assisted backhaul network architecture in urban environments, analyzed the effects of obstacles on backhaul networks, and developed techniques for reconfiguration to provide survivability of backhaul networks in the presence of dynamic obstacles. For mmWave WLAN, we investigated access point (AP) mobility and the use of multiple APs to exploit location sensitivity. These activities primarily involved mathematical analyses and a combination of Matlab and ns-3 simulations. For the access point mobility work, a prototype of a ceiling-mounted AP mobility platform was developed and used for evaluation purposes to complement the mathematical analyses and simulation results. For the multi-AP work, several algorithms were proposed to generate optimal multi-AP placements such that the desirable performance and blockage-free operation can be achieved. The study of multiple mobile APs is also conducted.
 
 ### &diams; Developing the Network Simulators Based on the ns-3 Software
-* My works are focused on the developing end-to-end simulator of mmWave out-of-band backhaul networks in ns-3. We first
+* The works are focused on developing end-to-end simulator of mmWave out-of-band backhaul networks in ns-3. We first
 introduce a design for an out-of-band backhaul module in ns-3. A custom backhaul network device is proposed that can be added to
 nodes to enable out-of-band backhaul transmissions. We implement the anchored BS node connected to core-network with both access and backhaul abilities, the small-cell BS node with both access and backhaul abilities, and the mmWave relay node with only dedicated backhauling features. 
 
-* Another part of my works are focused on the developing end-to-end simulator of mmWave indoor scenarios in ns-3. We first
-introduce a design for the obstacle module in ns-3, and design the matched channel model for simulating network performance in typical indoor scenarios. We also target on improving the simulation efficiency on ns-3 in the mmWave network scenarios with a number of obstacles, APs and users. 
+* Another part of the works are focused on the developing end-to-end simulator for mmWave indoor scenarios in ns-3. We first
+introduce a design for the obstacle module in ns-3, and design the matched channel model for simulating network performance in a variety of next-generation scenarios of interest. We also target on improving the simulation efficiency on ns-3 in the dense network scenarios with a number of obstacles, APs and users. 
 
 * Develop statistical and ray-tracing-based high-fidelity channel models in ns-3. Integrating 802.11ad & ay standards and protocols into the branch of ns-3.
 
