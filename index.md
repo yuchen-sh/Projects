@@ -31,7 +31,7 @@ introduce a design for the obstacle module in ns-3, and design the matched chann
 ### &diams;	Network Protocols and Standards for Space Information Networks, in Shanghai Jiao Tong Univ., China.
 * Because of the unbalanced computation ability of every node in space information networks, the efficiency and lightweight computation are two significant characteristics for network security protocols in this specific environment. We broke through the limits of old ways, abandoned the existing algorithms such as PKI or IBE, and devised several lightweight encryption schemes just based on hash and XOR operations. Through extensive theoretical analysis and simulation tests, it was evident that proposed optimized algorithms not only met all security requirements, but reduced the cost as well.
 
-### &diams;	Security Architecture and Modularization of Mobile Communication Network Element Software, Huawei Technologies Co., Ltd & Shanghai Jiao Tong Univ., China.
+### &diams;	Security Architecture and Modularization of Mobile Communication Network-Element Software, in Shanghai Jiao Tong Univ., China.
 * Fulfilled information encryption of security components, designed distribution of keys and the storage security algorithm.
 * Designed and filed two patents: 1) Linux Security Module (LSM) based database connection access control method, which applied the hook functions within the LSM framework; 2) virtual device based dynamic and static integrated security strategy update method, which was a solution of combining dynamic and static update strategies put forward to ensure the system's stability.
 
