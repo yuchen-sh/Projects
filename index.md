@@ -11,7 +11,7 @@
   * **software and simulator design for computer networks** (programmable networking, open-source testbed, ns-3)
  
  
-* Research Projects:
+* <font size=4> Research Projects: </font>
  
   * **Design of Anticipatory Mobile and Wireless Network Systems Using Machine Learning**
 
