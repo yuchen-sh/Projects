@@ -5,9 +5,9 @@
 
 * <font size=4> Broad areas of networking, computing, and communication, spanning: </font>
   
-  <p style="text-align: center;">
-    <img alt="" src="future_network_systems.png" />
-  </p>
+   <!-- <p style="text-align: center;"> -->
+           <img alt="" src="future_network_systems.png" />
+  <!-- </p> -->
   
   * **networking and systems** (wireless, new network architecture, protocols, algorithms, and security) 
   * **mobile computing** (infrastructure mobility, robotic networked systems)
