@@ -3,17 +3,14 @@
 
 * <font size=4> Broad areas of networking, computing, and communication, spanning: </font>
 
-<div style="display:flex;justify:space-between">
   <img alt="" align="right" src="/future_network_systems.png" /> 
-  <p>
+  
   * **networking and systems** (wireless, new network architecture, protocols, algorithms, and security) 
   * **mobile computing** (infrastructure mobility, robotic networked systems)
   * **machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
   * **network optimization and resilience** (theory, hybrid design for large-scale network systems)
   * **software and simulator design for computer networks** (programmable networking, open-source testbed, ns-3)
-  </p>
-</div> 
  
 * <font size=4> Research Projects: </font>
  
