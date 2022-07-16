@@ -3,7 +3,7 @@
 
 * <font size=4> Broad areas of networking, computing, and communication, spanning: </font>
 
-  <img alt="" align="right" src="/future_network_systems.png" width="200%" height="200%" /> 
+  <img alt="" align="right" src="/future_network_systems.png" /> 
   
   * **networking and systems** (wireless, new network architecture, protocols, algorithms, and security) 
   * **mobile computing** (infrastructure mobility, robotic networked systems)
