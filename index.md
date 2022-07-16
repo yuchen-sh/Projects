@@ -1,6 +1,8 @@
 
 ## <span id="j7"><font color='darkblue' face="Georgia">RESEARCH PROJECTS</font></span>
 
+<img alt="" src="/future_network_systems.PNG" /> 
+
 * <font size=4> Broad areas of networking, computing, and communication, spanning: </font>
 
   * **networking and systems** (wireless, new network architecture, protocols, algorithms, and security) 
