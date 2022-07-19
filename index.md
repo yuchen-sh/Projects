@@ -59,7 +59,7 @@ introduce a design for the obstacle module in ns-3, and design the matched chann
 <!-- * Goals: This project is focused on the location-sensitivity aspect of mmWave communication, i.e. that small changes in the location of the transceiver of a mmWave link can have dramatic impact on performance. The major goals are to quantify location sensitivity and to investigate ways in which location sensitivity can be exploited, both at network design time and during network operation, to improve mmWave performance. Among the techniques investigated to take advantage of location sensitivity are controlled mobility and optimized use of relay nodes. -->
 
 <!-- <p style="text-align: center;"> -->
-    <img alt="" src="sponsor.png" width="82%" height="82%" />
+<img alt="" src="sponsor.png" width="82%" height="82%" />
 <!-- </p> -->
 
 
