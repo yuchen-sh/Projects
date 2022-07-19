@@ -29,6 +29,11 @@
   * **Network Protocols and Security for Space Information Networks, in Shanghai Jiao Tong Univ., 2017.**
 
   * **Security Architecture and Modularization of Mobile Communication Network-Element Software, in Shanghai Jiao Tong Univ., 2016.**
+  
+  
+  <!-- <p style="text-align: center;"> -->
+  <img alt="" src="sponsor2.png" width="86%" height="86%" />
+  <!-- </p> -->
 
 <!-- * Activities: My researches are focused on two network scenarios for mmWave communication: 1) mmWave backhaul networks and 2) mmWave WLAN (primarily in the indoor context). For mmWave backhaul networks, which is proposed because of the existence of a large number of small-cell BSs within each macro-cell in 5G era and it aims to resolve the issue of forwarding the large amount of backhaul traffic between these small-cell BSs without wired connections, we have investigated design of high throughput relay-assisted backhaul network architecture in urban environments, analyzed the effects of obstacles on backhaul networks, and developed techniques for reconfiguration to provide survivability of backhaul networks in the presence of dynamic obstacles. For mmWave WLAN, we investigated access point (AP) mobility and the use of multiple APs to exploit location sensitivity. These activities primarily involved mathematical analyses and a combination of Matlab and ns-3 simulations. For the access point mobility work, a prototype of a ceiling-mounted AP mobility platform was developed and used for evaluation purposes to complement the mathematical analyses and simulation results. For the multi-AP work, several algorithms were proposed to generate optimal multi-AP placements such that the desirable performance and blockage-free operation can be achieved. The study of multiple mobile APs is also conducted. -->
 
@@ -58,9 +63,6 @@ introduce a design for the obstacle module in ns-3, and design the matched chann
 
 <!-- * Goals: This project is focused on the location-sensitivity aspect of mmWave communication, i.e. that small changes in the location of the transceiver of a mmWave link can have dramatic impact on performance. The major goals are to quantify location sensitivity and to investigate ways in which location sensitivity can be exploited, both at network design time and during network operation, to improve mmWave performance. Among the techniques investigated to take advantage of location sensitivity are controlled mobility and optimized use of relay nodes. -->
 
-<!-- <p style="text-align: center;"> -->
-<img alt="" src="sponsor.png" width="82%" height="82%" />
-<!-- </p> -->
 
 
 <div style="text-align:left">
