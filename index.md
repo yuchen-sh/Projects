@@ -1,5 +1,5 @@
 
-## <span id="j7"><font color='darkblue' face="Georgia">RESEARCH PROJECTS</font></span>
+## <span id="j7"><font color='darkblue' face="Georgia">RESEARCH & PROJECTS</font></span>
 
   <!-- <img alt="" align="right" src="future_network_systems.png" /> -->
 
