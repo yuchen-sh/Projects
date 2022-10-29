@@ -11,10 +11,10 @@
   
   * **networking and systems** (wireless, new network architecture, protocols, algorithms, and security) 
   * **mobile computing** (infrastructure mobility, robotic networked systems)
-  * **machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
+  * **AI/machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
-  * **network optimization and resilience** (theory, hybrid design for large-scale network systems)
-  * **software and simulator design for computer networks** (programmable networking, open-source testbed, ns-3)
+  * **optimization and resilience** (theory, hybrid design for large-scale network systems)
+  * **software and simulator design** (programmable networking, open-source testbed, ns-3)
  
 * <font size=4> Research Projects: </font>
  
