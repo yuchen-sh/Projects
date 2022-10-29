@@ -3,7 +3,7 @@
 
   <!-- <img alt="" align="right" src="future_network_systems.png" /> -->
 
-* <font size=4> Broad areas of networking, computing, and communication, spanning: </font>
+* <font size=4> Broad areas of networking, computing, communication, and AI/ML spanning: </font>
   
    <!-- <p style="text-align: center;"> -->
     <img alt="" src="future_networks.png" width="82%" height="82%" />
