@@ -6,7 +6,7 @@
 * <font size=4> Broad areas of networking, computing, communication, and AI/ML, spanning: </font>
   
    <!-- <p style="text-align: center;"> -->
-    <img alt="" src="Research.png" width="82%" height="82%" />
+    <img alt="" src="Research.png" width="72%" height="72%" />
    <!-- </p> -->
   
   * **networking and systems** (wireless, new network architecture, protocols, digital twins, and security) 
