@@ -6,10 +6,10 @@
 * <font size=4> Broad areas of networking, computing, communication, and AI/ML, spanning: </font>
   
    <!-- <p style="text-align: center;"> -->
-    <img alt="" src="future_networks.png" width="82%" height="82%" />
+    <img alt="" src="Research.png" width="82%" height="82%" />
    <!-- </p> -->
   
-  * **networking and systems** (wireless, new network architecture, protocols, algorithms, and security) 
+  * **networking and systems** (wireless, new network architecture, protocols, digital twins, and security) 
   * **mobile computing** (infrastructure mobility, robotic networked systems)
   * **machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
