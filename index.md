@@ -11,7 +11,7 @@
   
   * **networking and systems** (wireless, new network architecture, protocols, digital twins, and security) 
   * **mobile computing** (infrastructure mobility, robotic networked systems)
-  * **machine learning for networking, sensing, and system design** (distributed/on-device learning, self-awareness system, network data analytics)
+  * **machine learning for networking, sensing, and system design** (generative model, self-awareness system, network data analytics)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
   * **optimization and resilience** (theory, hybrid design for large-scale network systems)
   * **software and simulator design** (programmable networking, open-source testbed, ns-3)
