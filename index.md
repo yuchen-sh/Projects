@@ -9,11 +9,11 @@
     <img alt="" src="Research7.png" width="65%" height="65%" />
    <!-- </p> -->
   
-  * **networking and systems** (wireless, new network architecture, protocols, digital twins, and security) 
-  * **mobile computing** (infrastructure mobility, robotic networked systems)
-  * **machine learning for networking, sensing, and system design** (generative model, self-awareness system, data analytics)
+  * **networking and systems** (wireless, new network architecture, protocols, digital twins, and security)
+  * **machine learning for data, networking, sensing, and system design** (generative model, self-awareness system, data analytics)
+  * **mobile computing** (infrastructure mobility, UAVs, robotic networked systems)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
-  * **optimization and resilience** (theory, hybrid design for large-scale network systems)
+  * **optimization and resilience** (theory, large-scale models and systems)
   * **software and simulator design** (programmable networking, open-source testbed, ns-3)
  
 * <font size=4> Research Projects: </font>
@@ -24,11 +24,11 @@
 
   * **Developing Open-source Simulator for Computer Networks (ns-3 Software)**
 
-  * **IoT-based Intelligent Wi-Fi Car with Autonomous Sensing, in Intel R&D Ltd, 2017.**
+  * **IoT-based Intelligent Wi-Fi Car with Autonomous Sensing**
 
-  * **Network Protocols and Security for Space Information Networks, in Shanghai Jiao Tong Univ., 2017.**
+  * **Network Protocols and Security for Space Information Networks**
 
-  * **Security Architecture and Modularization of Mobile Communication Network-Element Software, in Shanghai Jiao Tong Univ., 2016.**
+  * **Security Architecture and Modularization of Mobile Communication Network-Element Software**
   
   
   <!-- <p style="text-align: center;"> -->
