@@ -10,13 +10,15 @@
    <!-- </p> -->
   
   * **networking and systems** (wireless, new network architecture, protocols, digital twins, and security)
-  * **machine learning for data, networking, sensing, and system design** (generative model, self-awareness system, data analytics)
+  * **machine learning for data, networking, sensing, and security** (generative AI, self-awareness system, data analytics)
   * **mobile computing** (infrastructure mobility, UAVs, robotic networked systems)
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
   * **optimization and resilience** (theory, large-scale models and systems)
   * **software and simulator design** (programmable networking, open-source testbed, ns-3)
  
 * <font size=4> Research Projects: </font>
+
+  * **Digital Network Twins - Learning for Twinning and Twinning for Learning**
  
   * **Design of Anticipatory Mobile and Wireless Network Systems Using Machine Learning**
 
