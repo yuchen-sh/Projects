@@ -20,7 +20,7 @@
 
   * **Digital Network Twins - Learning for Twinning and Twinning for Learning**
  
-  * **Design of Anticipatory Mobile and Wireless Network Systems Using Machine Learning**
+  * **Design of Predictive Mobile and Wireless Network Systems Using Machine Learning**
 
   * **Location, Location, Location: Maximizing Network Performance in the mmWave Era**
 
