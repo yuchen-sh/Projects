@@ -15,8 +15,12 @@
   * **new communication paradigms** (mmWave, THz, nextG Wi-Fi) 
   * **optimization and resilience** (theory, large-scale models and systems)
   * **software and simulator design** (programmable networking, open-source testbed, ns-3)
- 
-* <font size=4> Research Projects: </font>
+
+
+&emsp;
+&emsp;
+
+* <font size=5> Research Projects: </font>
 
   * **Digital Network Twins - Learning for Twinning and Twinning for Learning**
  
