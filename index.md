@@ -32,8 +32,8 @@
   * **Developing Open-source Simulator for Computer Networks (ns-3 Software)**
 
     * Open-Source Code:
-      * ns-3 WiGig implementation, https://apps.nsnam.org/app/wigig/
-      * Enhanced mmWave LAN ns-3 simulator, https://github.com/yuchen-sh/mmWave-WLAN-802.11ad/tree/master
+      * ns-3 WiGig implementation, <https://apps.nsnam.org/app/wigig/>
+      * Enhanced mmWave LAN ns-3 simulator, <https://github.com/yuchen-sh/mmWave-WLAN-802.11ad/tree/master>
 
   * **IoT-based Intelligent Wi-Fi Car with Autonomous Sensing**
 
