@@ -40,7 +40,7 @@
       * ns-3 WiGig implementation, <https://apps.nsnam.org/app/wigig/>
       * Enhanced mmWave LAN ns-3 simulator, <https://github.com/yuchen-sh/mmWave-WLAN-802.11ad/tree/master>
 
-  * **IoT-based Intelligent Wi-Fi Car with Autonomous Sensing**
+  * **IoT-Enabled Multi-Functional Robots with Autonomous Sensing**
 
   * **Network Protocols and Security for Space Information Networks**
 
