@@ -28,7 +28,7 @@
 
 * <font size=5> Research Projects: </font>
 
-  * **Digital Network Twins: Mapping Next Generation Wireless into Digital Reality** ([NSF CNS: NeTS](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false))
+  * [**Digital Network Twins: Mapping Next Generation Wireless into Digital Reality**](https://yuchen-sh.github.io/project-DNT) ([NSF CNS: NeTS](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false))
  
   * **Design of Predictive Mobile and Wireless Network Systems Using Machine Learning**
 
