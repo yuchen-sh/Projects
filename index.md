@@ -7,7 +7,6 @@
 
 &emsp;
 &emsp;
-
    <!-- <p style="text-align: center;"> -->
     <img alt="" src="Research8.png" width="65%" height="65%" />
    <!-- </p> -->
