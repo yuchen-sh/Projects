@@ -4,8 +4,10 @@
   <!-- <img alt="" align="right" src="future_network_systems.png" /> -->
 
 * **<font size=4> Broad areas of networking, AI/ML, computing, and communication, spanning: </font>**
+
 &emsp;
 &emsp;
+
    <!-- <p style="text-align: center;"> -->
     <img alt="" src="Research8.png" width="65%" height="65%" />
    <!-- </p> -->
@@ -17,11 +19,11 @@
   <!--* **new communication paradigms** (mmWave, THz, nextG Wi-Fi) -->
   <!--* **optimization and resilience** (theory, large-scale models and systems)-->
   <!--* **software and simulator design** (programmable networking, open-source testbed, ns-3)-->
-  * **Wireless Networks, Digital Twins, and Security;**
-  * **Generative AI and Distributed/Reinforcement Learning for Self-Awareness Systems;**
-  * **Mobile Computing and Sensing (infrastructure mobility, UAVs, multi-modal sensing);**
-  * **Modeling and Simulation (open-source testbed, ns-3, ray tracing);**
-  * **Applied Networking and AI/ML in Agriculture, Education, and Health.**
+  * Wireless Networks, Digital Twins, and Security;
+  * Generative AI and Distributed/Reinforcement Learning for Self-Awareness Systems;
+  * Mobile Computing and Sensing (infrastructure mobility, UAVs, multi-modal sensing);
+  * Modeling and Simulation (open-source testbed, ns-3, ray tracing);
+  * Applied Networking and AI/ML in Agriculture, Education, and Health.
 
 
 &emsp;
