@@ -5,6 +5,7 @@
 
 * **<font size=4> Broad areas of networking, AI/ML, computing, and communication, spanning: </font>**
 &emsp;
+&emsp;
    <!-- <p style="text-align: center;"> -->
     <img alt="" src="Research8.png" width="65%" height="65%" />
    <!-- </p> -->
@@ -26,7 +27,7 @@
 &emsp;
 &emsp;
 
-* **<font size=4.5> Research Projects: </font>**
+* **<font size=4> Research Projects: </font>**
 
   * [**Digital Network Twins: Mapping Next Generation Wireless into Digital Reality**](https://yuchen-sh.github.io/project-DNT) ([NSF CNS: NeTS](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false))
  
