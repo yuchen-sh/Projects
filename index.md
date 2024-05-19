@@ -22,7 +22,7 @@
   * Generative AI and Distributed/Reinforcement Learning for Self-Awareness Systems;
   * Mobile Computing and Sensing (infrastructure mobility, UAVs, multi-modal sensing);
   * Modeling and Simulation (open-source testbed, ns-3, ray tracing);
-  * Applied Networking and AI/ML in Agriculture, Education, and Health.
+  * Applied Networking, Sensing, and AI/ML in Agriculture, Education, and Health.
 
 
 &emsp;
