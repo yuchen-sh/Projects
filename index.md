@@ -30,7 +30,7 @@
 
   * [**Digital Network Twins: Mapping Next Generation Wireless into Digital Reality**](https://yuchen-sh.github.io/project-DNT) ([NSF CNS: NeTS](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false))
  
-  * **Design of Predictive Mobile and Wireless Network Systems Using Machine Learning**
+  * **Design of Predictive Mobile and Wireless Network Systems Using Distributed Learning**
 
   * **Location, Location, Location: Maximizing Network Performance in the mmWave Era**
 
@@ -40,7 +40,7 @@
       * ns-3 WiGig implementation, <https://apps.nsnam.org/app/wigig/>
       * Enhanced mmWave LAN ns-3 simulator, <https://github.com/yuchen-sh/mmWave-WLAN-802.11ad/tree/master>
 
-  * **IoT-Enabled Multi-Functional Robots with Autonomous Sensing**
+  * **IoT-Enabled Multi-Functional Robots with Autonomous Sensing (Intel Corporation)**
 
   * **Network Protocols and Security for Space Information Networks**
 
