@@ -44,9 +44,9 @@
 
   * **IoT-Enabled Multi-Functional Robots with Autonomous Sensing (Intel Corporation)**
 
-  * **Network Protocols and Security for Space Information Networks**
+  <!-- * **Network Protocols and Security for Space Information Networks** -->
 
-  * **Security Architecture and Modularization of Mobile Communication Network-Element Software**
+  <!-- * **Security Architecture and Modularization of Mobile Communication Network-Element Software** -->
   
   
   <!-- <p style="text-align: center;"> -->
