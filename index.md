@@ -32,9 +32,9 @@
 
   * [**NSF Award #2312138: Digital Network Twins: Mapping Next Generation Wireless into Digital Reality**](https://yuchen-sh.github.io/project-DNT) ([NSF CNS: NeTS](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false))
  
-  * **Design of Predictive Mobile and Wireless Network Systems Using Distributed Learning**
+  * **Design of Predictive Mobile and Wireless Network Systems Using Distributed Learning (NCSU Funds)**
 
-  * **Location, Location, Location: Maximizing Network Performance in the mmWave Era**
+  * **Location, Location, Location: Maximizing Network Performance in the mmWave Era (Gatech Critial Networking Lab)**
 
   * **Developing Open-source Simulator for Computer Networks (ns-3 Software)**
 
