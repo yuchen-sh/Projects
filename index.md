@@ -34,7 +34,7 @@
  
   * **Design of Predictive Mobile and Wireless Network Systems Using Distributed Learning (NCSU Funds)**
 
-  * **Location, Location, Location: Maximizing Network Performance in the mmWave Era (Gatech Critial Networking Lab)**
+  * **Location, Location, Location: Maximizing Network Performance in the mmWave Era (Gatech Critical Networking Lab)**
 
   * **Developing Open-source Simulator for Computer Networks (ns-3 Software)**
 
