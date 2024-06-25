@@ -12,7 +12,7 @@
    <!-- </p> -->
 
 &emsp;
-  <!--* **networking and systems** (wireless, new network architecture, protocols, digital twins, and security)-->
+  <!--* **networking and systems** (wireless, new network architecture, protocols, digital twins, and cybersecurity)-->
   <!--* **machine learning for data, networking, sensing, and security** (generative AI, self-awareness system, data analytics)-->
   <!--* **mobile computing** (infrastructure mobility, UAVs, robotic networked systems)-->
   <!--* **new communication paradigms** (mmWave, THz, nextG Wi-Fi) -->
