@@ -18,7 +18,7 @@
   <!--* **new communication paradigms** (mmWave, THz, nextG Wi-Fi) -->
   <!--* **optimization and resilience** (theory, large-scale models and systems)-->
   <!--* **software and simulator design** (programmable networking, open-source testbed, ns-3)-->
-  * Wireless Networks, Digital Twins, and Security;
+  * Wireless Networks, Digital Twins, and Cybersecurity;
   * Generative AI and Distributed/Reinforcement Learning for Self-Awareness Systems;
   * Mobile Computing and Sensing (infrastructure mobility, UAVs, multi-modal sensing);
   * Modeling and Simulation (open-source testbed, ns-3, ray tracing);
