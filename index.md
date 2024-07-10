@@ -30,7 +30,9 @@
 
 * **<font size=4> Research Projects: </font>**
 
-  * [**NSF Award #2312138: Digital Network Twins: Mapping Next Generation Wireless into Digital Reality**](https://yuchen-sh.github.io/project-DNT) ([NSF CNS: NeTS](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false))
+  * [**NSF Award #2312138: Digital Network Twins: Mapping Next Generation Wireless into Digital Reality**](https://yuchen-sh.github.io/project-DNT) ([NSF CNS: CORE: NeTS](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false))
+ 
+  * [**NSF Award #2350075: Digital Network Twins: Mapping Next Generation Wireless into Digital Reality**](https://yuchen-sh.github.io/project-DWE) (NSF SaTC: CORE)
  
   * **Design of Predictive Mobile and Wireless Network Systems Using Distributed Learning (NCSU Funds)**
 
