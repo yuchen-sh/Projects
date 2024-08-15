@@ -32,7 +32,7 @@
 
   * [**NSF Award #2312138: Digital Network Twins: Mapping Next Generation Wireless into Digital Reality**](https://yuchen-sh.github.io/project-DNT) ([NSF CNS: CORE: NeTS](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312138&HistoricalAwards=false))
  
-  * [**NSF Award #2350075: Towards Secure, Resilient, Privacy-enhancing Digital World Experiences**](https://yuchen-sh.github.io/project-DWE) (NSF SaTC: CORE)
+  * [**NSF Award #2350075: Towards Secure, Resilient, Privacy-enhancing Digital World Experiences** (NSF SaTC: CORE)](https://yuchen-sh.github.io/project-DWE)
  
   * **Design of Predictive Mobile and Wireless Network Systems Using Generative Learning (NCSU Research Funds)**
 
