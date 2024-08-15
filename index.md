@@ -34,7 +34,7 @@
  
   * [**NSF Award #2350075: Towards Secure, Resilient, Privacy-enhancing Digital World Experiences** (NSF SaTC: CORE)](https://yuchen-sh.github.io/project-DWE)
  
-  * **Design of Predictive Mobile and Wireless Network Systems Using Generative Learning (NCSU Research Funds)**
+  * [**Understanding and Design of Generative Learning-based Mobile and Wireless Network Systems** (NCSU Research Funds)](https://nicelab.us/Project-NCSU/)
 
   * **Location, Location, Location: Maximizing Network Performance in the mmWave Era (Gatech Critical Networking Lab)**
 
